@@ -1,3 +1,5 @@
+/*include header file(s) containing necessary dependencies*/
+
 #include "main.h"
 /**
  * is_printable - checks if a character is printable
