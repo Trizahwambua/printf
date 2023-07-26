@@ -1,3 +1,5 @@
+/*include header file(s) containing necessary dependencies*/
+
 #include "main.h"
 /**
  * get_width - gets the width for printing
