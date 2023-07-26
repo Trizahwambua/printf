@@ -1,3 +1,5 @@
+/*include header file(s) containing necessary dependencies*/
+
 #include "main.h"
 /**
  * print_char - prints a character
