@@ -1,3 +1,4 @@
+/*include header file(s) containing necessary dependencies*/
 #include "main.h"
 /**
  * print_pointer - prints value of a pointer variable
