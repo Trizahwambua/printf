@@ -1,1 +1,1 @@
-printf group work done  by Raymond Njoroge and Trizah Wambua
+printf group work done  by Trizah Wambua and Raymond Njoroge.
